@@ -52,3 +52,25 @@ This project implements a robust and scalable backend system that manages reques
 - Login(POST) ---> http://localhost:8085/auth/login
 - Logout(POST) ---> http://localhost:8085/auth/logout
 - Enqueue(POST) ---> http://localhost:8085/enqueue
+
+## Pages
+![grafanaDashBoard](https://github.com/ManishGupta03/gAstroAsssignmentl1/assets/117648576/28dc3f33-3824-49dd-8daf-bed99b986ada)
+![grafanaDashBoard-2](https://github.com/ManishGupta03/gAstroAsssignmentl1/assets/117648576/d329316d-dcee-433b-bb3d-bafc3c785306)
+
+# Grafana Dashboard
+
+![redisConnection](https://github.com/ManishGupta03/gAstroAsssignmentl1/assets/117648576/d3f3a891-7c0e-4f69-9b3c-dba6c4fa750a)
+# Redis Connection Server
+
+![PrometheousDashboard](https://github.com/ManishGupta03/gAstroAsssignmentl1/assets/117648576/850ffd8e-7f90-4974-8472-7afee6f0bd55)
+# Prometheous Dashboard
+
+![dockerCenteralization](https://github.com/ManishGupta03/gAstroAsssignmentl1/assets/117648576/be2d333b-b9d1-41fd-aefc-d1f50c415167)
+# Grafana DashBoard
+
+
+
+
+
+
+
